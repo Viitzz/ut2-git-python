@@ -1,4 +1,4 @@
-# Ejercicio 2: calificación (if / elif / else) 
+# Ejercicio 2: calificación (if / elif / else)
 nota = float(input("Introduce la nota (0-10): "))
 
 if nota < 0 or nota > 10:
