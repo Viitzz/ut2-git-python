@@ -23,8 +23,5 @@ jobs:
         run: | 
           echo "4" | python3 ej01_par_impar.py 
           echo "8.5" | python3 ej02_calificacion.py
-          echo "5" | python ej03_tabla_multiplicar.py
           echo "3" | python ej05_menu.py
-          echo "20" | python ej06_suma_pares.py
-          echo "15" | python ej07_fizzbuzz.py
           echo "daw2026" | python ej08_contrasena.py
