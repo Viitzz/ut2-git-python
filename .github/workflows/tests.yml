@@ -27,4 +27,4 @@ jobs:
           echo "3" | python ej05_menu.py
           echo "20" | python ej06_suma_pares.py
           echo "15" | python ej07_fizzbuzz.py
-          echo "prueba123" | python ej08_contrasena.py
+          echo "daw2026" | python ej08_contrasena.py
