@@ -24,8 +24,7 @@ jobs:
           echo "4" | python3 ej01_par_impar.py 
           echo "8.5" | python3 ej02_calificacion.py
           echo "5" | python ej03_tabla_multiplicar.py
-          echo "10" | python ej04_advina.py
-          echo "1" | python ej05_menu.py
+          echo "3" | python ej05_menu.py
           echo "20" | python ej06_suma_pares.py
           echo "15" | python ej07_fizzbuzz.py
           echo "prueba123" | python ej08_contrasena.py
