@@ -1,5 +1,5 @@
 # Ejercicio 8: contraseña con 3 intentos (while + else) 
-CLAVE = "otra" 
+CLAVE = "daw2026" 
 intentos = 5 
 while intentos > 0: 
     clave = input("Contraseña: ") 
